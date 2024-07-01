@@ -2,6 +2,8 @@
 
 ## Overview
 This repository provides a comprehensive analysis of the general election results for parliamentary and assembly constituencies in June 2024. The repository includes detailed results by party and visualizations to help understand the election trends and outcomes.
+<img width="623" alt="1" src="https://github.com/kk2768/Election-Result-2024-Data-Analysis/assets/103494086/d3d77147-3be4-41ad-ac6c-015c1e829eb6">
+
 
 ## Election Results
 - Telugu Desam (TDP) won 135 seats in the Assembly Constituencies.
